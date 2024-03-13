@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🌱 I’m currently learning web development, with focus on frontend but aspirations toward learning backend as well. Object-oriented programming with c# in .net framework, and c++.
+
+❤ Love learning anything code related.
